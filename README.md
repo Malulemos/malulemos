@@ -18,7 +18,7 @@
  </div>
  <hr/>
 </div>
-<div style="display: inline_block">
+<div align="center" style="display: inline_block">
 <img align="center" alt ="malu-java" height="50" width="50" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt ="malu-kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img align="center" alt ="malu-mongo" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"" />
