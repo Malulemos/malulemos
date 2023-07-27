@@ -4,7 +4,7 @@
   <hr/>
 
 - :computer: I’m currently working on Blip.ai
-- :books: I’m currently learning JavaScript
+- :books: I’m currently learning Java
 - 📫 How to reach me: https://www.linkedin.com/in/maria-luiza-siqueira-b207a0207/
 
 
