@@ -1,7 +1,8 @@
 <div>
    <h1 align="center"> Hello everyone, I'm Malu! Welcome to my world ☕ </h1>
+   <br>
 </div>
-  <hr/>
+     
  <div display="inline-block">
       <img align="right" src="https://media.tenor.com/LkfQUufO4rcAAAAC/baby-yoda.gif" width="300">
  <p align="left">🖥️ I’m currently working as Backend Developer at Blip.ai </p>
@@ -24,18 +25,4 @@
 <img align="center" alt ="malu-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />  
 </div>
  
-  
-<!--
-**Malulemos/malulemos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
