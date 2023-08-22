@@ -6,7 +6,7 @@
  <div display="inline-block">
       <img align="right" src="https://media.tenor.com/LkfQUufO4rcAAAAC/baby-yoda.gif" width="275">
  <p align="left">🖥️ I’m currently working as Backend Developer at Blip.ai </p>
- <p align="left">📚 I’m currently learning Java </p>
+ <p align="left">📚 I’m currently learning Java and Kotlin </p>
  <p align="left">📫 How to reach me: <a href="https://www.linkedin.com/in/maria-luiza-siqueira-b207a0207/">Linkedin</a></p>
 </div>
 <br>
